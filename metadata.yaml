@@ -1,0 +1,32 @@
+_repo: The-Lerouge-Case_3802
+_version: 0.0.1
+alternative_title:
+- The Widow Lerouge
+- L'affaire Lerouge. English
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: Translation of L'affaire Lerouge.
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PQ'
+- GITenberg
+title: The Lerouge Case
+url: http://www.gutenberg.org/ebooks/3802
